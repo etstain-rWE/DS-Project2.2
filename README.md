@@ -1,4 +1,4 @@
-#Project #2 - Data Analysis with Pandas
+_Project #2 - Data Analysis with Pandas_
 
 -Answer the following questions by analyzing the complete list of movies as of 2024：
 
