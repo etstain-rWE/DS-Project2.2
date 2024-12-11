@@ -18,3 +18,5 @@ _Project #2 - Data Analysis with Pandas_
 - What are the movies that have high ratings but low vote counts?
 
 - What are the movies with high ratings but average ratings?
+
+  Use project.ipynb to see what's going on
